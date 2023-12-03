@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mineria-shiny-apps/static/css/main.1b9846c9.css",
-    "main.js": "/mineria-shiny-apps/static/js/main.3d9d1a27.js",
+    "main.css": "/mineria-shiny-apps/static/css/main.0bf8a1ab.css",
+    "main.js": "/mineria-shiny-apps/static/js/main.071316b1.js",
     "static/js/787.8c29339f.chunk.js": "/mineria-shiny-apps/static/js/787.8c29339f.chunk.js",
     "index.html": "/mineria-shiny-apps/index.html",
-    "main.1b9846c9.css.map": "/mineria-shiny-apps/static/css/main.1b9846c9.css.map",
-    "main.3d9d1a27.js.map": "/mineria-shiny-apps/static/js/main.3d9d1a27.js.map",
+    "main.0bf8a1ab.css.map": "/mineria-shiny-apps/static/css/main.0bf8a1ab.css.map",
+    "main.071316b1.js.map": "/mineria-shiny-apps/static/js/main.071316b1.js.map",
     "787.8c29339f.chunk.js.map": "/mineria-shiny-apps/static/js/787.8c29339f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b9846c9.css",
-    "static/js/main.3d9d1a27.js"
+    "static/css/main.0bf8a1ab.css",
+    "static/js/main.071316b1.js"
   ]
 }

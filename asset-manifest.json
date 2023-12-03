@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mineria-shiny-apps/static/css/main.0bf8a1ab.css",
-    "main.js": "/mineria-shiny-apps/static/js/main.071316b1.js",
+    "main.css": "/mineria-shiny-apps/static/css/main.d7519744.css",
+    "main.js": "/mineria-shiny-apps/static/js/main.a576eb1b.js",
     "static/js/787.8c29339f.chunk.js": "/mineria-shiny-apps/static/js/787.8c29339f.chunk.js",
     "index.html": "/mineria-shiny-apps/index.html",
-    "main.0bf8a1ab.css.map": "/mineria-shiny-apps/static/css/main.0bf8a1ab.css.map",
-    "main.071316b1.js.map": "/mineria-shiny-apps/static/js/main.071316b1.js.map",
+    "main.d7519744.css.map": "/mineria-shiny-apps/static/css/main.d7519744.css.map",
+    "main.a576eb1b.js.map": "/mineria-shiny-apps/static/js/main.a576eb1b.js.map",
     "787.8c29339f.chunk.js.map": "/mineria-shiny-apps/static/js/787.8c29339f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bf8a1ab.css",
-    "static/js/main.071316b1.js"
+    "static/css/main.d7519744.css",
+    "static/js/main.a576eb1b.js"
   ]
 }

@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.sidebarRefactor__group-btn {
+  border: 1px solid #fff;
+}
+
+.sidebarRefactor__group-btn:hover {
+  background-color: #fff;
+  color: #07603c;
+}
